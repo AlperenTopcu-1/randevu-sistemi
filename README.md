@@ -71,6 +71,13 @@ python app.py
 
 ---
 
+## 🖼️ Projenin Görüntüsü
+
+![randevu-sistemi](randevu.png)
+
+---
+
+
 ## 🗄️ Veritabanı Şeması
 
 | Tablo | Alanlar |
